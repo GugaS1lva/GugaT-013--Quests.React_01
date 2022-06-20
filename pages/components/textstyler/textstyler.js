@@ -1,7 +1,8 @@
 function TextStyler({children}){
-    const insertedText = children.toUpperCase()
+    const insertedText = children
+    const capslookText = insertedText.toUpperCase()
 
-    return <div style={{color: 'red'}}>{insertedText}</div>
+    return <div style={{color: 'red'}}>{capslookText}</div>
 }
 
 export default TextStyler
