@@ -11,7 +11,7 @@ function Home(){
             <br/>
             <br/>
 
-            <TextStyler> Texto vermelho e com letras maiúscolas. </TextStyler>
+            <TextStyler text="Texto vermelho e com letras maiúscolas." />
             <br/>
             <AlertButton label="Baixar CV"/>
         </>
