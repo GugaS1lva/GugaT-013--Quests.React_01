@@ -1,5 +1,5 @@
 function TextStyler({children}){
-    const insertedText = children.toUpperCase()
+    const insertedText = children
 
     return <div style={{color: 'red'}}>{insertedText}</div>
 }
