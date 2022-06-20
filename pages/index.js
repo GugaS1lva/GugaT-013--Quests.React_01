@@ -7,11 +7,9 @@ function Home(){
             <h3>Quest 01 &gt;&gt;&gt; Utilizando o componente TextStyler que basicamente estiliza seu próprio filho, modificando a cor e a caixa alta dele. 
                 <br/>Quest 02 &gt;&gt;&gt; Utilizando um botão que dispara um alerta mostrando sua própria label.
             </h3>
+            <hr/>
 
-            <br/>
-            <br/>
-
-            <TextStyler text="Texto vermelho e com letras maiúscolas." />
+            <TextStyler> Texto vermelho e com letras maiúscolas. </TextStyler>
             <br/>
             <AlertButton label="Baixar CV"/>
         </>
