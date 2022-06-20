@@ -1,5 +1,7 @@
 function TextStyler({children}){
-    if (!children) null
+    if (!children){
+        return null
+    }
 
     return <div style={{color: 'red'}}>{children.toUpperCase()}</div>
 }
