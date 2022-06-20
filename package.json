@@ -1,0 +1,25 @@
+{
+  "name": "gugat-013--quests.react_01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GugaS1lva/GugaT-013--Quests.React_01.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GugaS1lva/GugaT-013--Quests.React_01/issues"
+  },
+  "homepage": "https://github.com/GugaS1lva/GugaT-013--Quests.React_01#readme",
+  "dependencies": {
+    "next": "^12.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
